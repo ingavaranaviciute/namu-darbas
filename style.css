@@ -1,0 +1,33 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+.dezute {
+    height: 100%;
+    width: 100%;
+    padding: 15px;
+}
+
+.isorine{
+    background-color:blue;
+    width: 330px;
+    height: 330px;
+    margin:auto;
+}
+
+.vidurine{
+    background-color: black;
+}
+
+.vidine{
+    background-color: green;
+    text-align: center;
+    padding-top: 114px;
+    font-size: 20px;
+}
+.tamsi{
+    color: white;
+}
+
